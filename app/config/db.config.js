@@ -1,7 +1,7 @@
 module.exports = {
-  HOST: "ec2-13-233-255-191.ap-south-1.compute.amazonaws.com",
+  HOST: "ip-172-31-47-12.us-east-2.compute.internal",
   USER: "postgres",
-  PASSWORD: "admin",
+  PASSWORD: "p0stgr3s",
   DB: "testdb",
   dialect: "postgres",
   PORT: 8089,
